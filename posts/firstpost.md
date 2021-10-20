@@ -1,7 +1,7 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Bài viết đầu tiên.
+description: Mô tả bài viết.
+date: 2021-05-01
 tags:
   - another-tag
 layout: layouts/post.njk
